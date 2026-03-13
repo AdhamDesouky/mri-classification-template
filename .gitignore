@@ -1,0 +1,17 @@
+# Python Virtual Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Datasets and Large Media Files
+*.npz
+*.npy
+*.jpg
+*.jpeg
+*.png
+data/
+dataset/
